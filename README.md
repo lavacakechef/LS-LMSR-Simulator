@@ -1,6 +1,6 @@
 # LS-LMSR Market Simulator
 
-A full-stack demo of **LMSR** and **LS-LMSR** (liquidity-scaled LMSR) automated market maker mechanics.
+A simple demo of **LMSR** and **LS-LMSR** (liquidity-scaled LMSR) automated market maker mechanics.
 Create multi-outcome markets, set parameters, quote and execute trades on Sepolia, and visualize price/liquidity paths with preset scenarios.
 
 
